@@ -1,0 +1,49 @@
+A graphical representations of three era's of time including a time portal : 
+1. Egyptian Era
+2. Medieval Era
+3. Apocalyptic Era
+
+Start with clicking 'Portal.exe' from the Time_Portal Folder 
+
+
+==== Changing Scenarios ===
+Press '1' Apocalyptic Era
+Press '2' Egyptian Era
+Press '3' Medieval Era
+Press '4' Time Travel
+===================================
+=== Egyptian Era Controls ===
+Boat 1 Movement: 'a' = Left, 'd' = Right
+Boat 2 Movement: 'j' = Left, 'l' = Right
+Toggle Day/Night: 'n'
+====================================
+
+=== Medieval Era Controls ===
+Press W to move the cart
+Press Q to stop the cart
+====================================
+
+=== Apocalyptic Era Controls ===
+Press W to start car
+Press Q to stop car
+Press E to move the tank to left
+Press R to move the tank to right
+Press F to shoot from tank
+Press S to move the tank barrel to left
+Press D to move the tank barrel to right
+====================================
+
+=== Time Portal Scene Control ===
+Press Q to stop human
+Press W to move Again
+Press E to move Human faster
+Press R to move Human slower
+Press T to turn on/off UFO light
+Press Y to Abduct Human
+Press O to turn on UFO drive mode
+Press I to go up
+Press N to go down
+Press J to go left
+Press K to go right
+Press P to turn off drive mode
+====================================

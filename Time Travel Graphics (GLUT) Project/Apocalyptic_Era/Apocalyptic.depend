@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1751047633 source:/home/raiyan/Desktop/Apocalyptic/main.cpp
+	<GL/glut.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<vector>
+	<algorithm>
+
+1750845717 /home/raiyan/GLUT_SDK/include/GL/glut.h
+	"freeglut_std.h"
+
+1750845717 /home/raiyan/GLUT_SDK/include/GL/freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1750845717 /home/raiyan/GLUT_SDK/include/GL/gl.h
+	<windows.h>
+	<GL/glext.h>
+
+1750845717 /home/raiyan/GLUT_SDK/include/GL/glext.h
+	<windows.h>
+	<KHR/khrplatform.h>
+
+1750845717 /home/raiyan/GLUT_SDK/include/GL/glu.h
+	<GL/gl.h>
+
